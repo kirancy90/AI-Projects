@@ -1,7 +1,7 @@
 Artificial Intelligence, Fall 2015
 Programming Assignment #5 : Propositional Satisfiability Solver (DPLL)
 
-Author : Kiran Chanamallappa Yalasangi (UIN : 324006395)
+Author : Kiran Chanamallappa Yalasangi
 
 Installation
 ------------
